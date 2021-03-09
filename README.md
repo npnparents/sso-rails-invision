@@ -186,5 +186,5 @@ Project Link: [https://github.com/npnparents/sso-rails-invision](https://github.
 [issues-shield]: https://img.shields.io/github/issues/npnparents/sso-rails-invision.svg?style=for-the-badge
 [issues-url]: https://github.com/npnparents/sso-rails-invision/issues
 [license-shield]: https://img.shields.io/github/license/npnparents/sso-rails-invision.svg?style=for-the-badge
-[license-url]: https://github.com/npnparents/sso-rails-invision/blob/master/LICENSE.txt
+[license-url]: https://github.com/npnparents/sso-rails-invision/blob/master/LICENSE.md
 
