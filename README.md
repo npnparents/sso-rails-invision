@@ -177,14 +177,14 @@ Project Link: [https://github.com/npnparents/sso-rails-invision](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/npnparents/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/npnparents/sso-rails-invision.svg?style=for-the-badge
 [contributors-url]: https://github.com/npnparents/sso-rails-invision/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/npnparents/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/npnparents/sso-rails-invision.svg?style=for-the-badge
 [forks-url]: https://github.com/npnparents/sso-rails-invision/network/members
-[stars-shield]: https://img.shields.io/github/stars/npnparents/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/npnparents/sso-rails-invision.svg?style=for-the-badge
 [stars-url]: https://github.com/npnparents/sso-rails-invision/stargazers
-[issues-shield]: https://img.shields.io/github/issues/npnparents/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/npnparents/sso-rails-invision.svg?style=for-the-badge
 [issues-url]: https://github.com/npnparents/sso-rails-invision/issues
-[license-shield]: https://img.shields.io/github/license/npnparents/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/npnparents/sso-rails-invision.svg?style=for-the-badge
 [license-url]: https://github.com/npnparents/sso-rails-invision/blob/master/LICENSE.txt
 
